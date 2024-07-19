@@ -1,2 +1,2 @@
 # daniel-bio-readme
-my name is daniel
+Hello, My name is Daniel Morantes-Villanueva. I am a Mexican-American rising senior from New Jersey. I have some coding experience in python, as well as being deeply interested with the world of mechanical engineering. With Github, I hope to not only work on projects to expand my knowledge in the coding field, but to also collaborate and build strong connections with new people while working on amazing projects as well.
